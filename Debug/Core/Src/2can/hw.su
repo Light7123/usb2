@@ -1,0 +1,4 @@
+../Core/Src/2can/hw.c:16:7:sendData	200	static
+../Core/Src/2can/hw.c:122:15:sendRequest	16	static
+../Core/Src/2can/hw.c:168:20:sendWebRequest	24	static
+../Core/Src/2can/hw.c:179:20:sendReaderRequest	32	static
